@@ -1,0 +1,6 @@
+{
+  "name": "Majesty Realty and Construction",
+  "description": "The Trusted Real Estate Partner for Better Property Decisions in Nigeria. Premium property sales, rentals, commercial brokerage, investment advisory, and property management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
